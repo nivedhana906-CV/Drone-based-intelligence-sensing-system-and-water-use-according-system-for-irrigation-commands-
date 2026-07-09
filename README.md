@@ -1,4 +1,4 @@
-# Drone-based-intelligence-sensing-system-and-water-use-according-system-for-irrigation-commands-# Drone-based Intelligent ET Sensing System and Irrigation Water Use Accounting System for Irrigation Commands
+# Drone-based-intelligence-sensing-system-and-water-use-according-system-for-irrigation-commands-# 
 
 ## Project Overview
 This project is a web-based application that helps monitor irrigation water usage using drone-based ET (Evapotranspiration) sensing. The system provides information about crop water requirements and supports efficient irrigation management.
