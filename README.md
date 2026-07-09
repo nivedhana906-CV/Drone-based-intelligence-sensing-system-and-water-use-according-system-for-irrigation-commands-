@@ -50,5 +50,5 @@ Project/
 - Mobile application support.
 - Cloud data storage.
 
-## Author
-Nivedhana
+
+
